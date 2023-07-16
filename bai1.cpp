@@ -94,9 +94,9 @@ int main() {
     int n;
     do {
         printMenu();
-        cout << "Nhap lua chon cua ban: ";
+        cout << "Vui long nhap lua chon cua ban: ";
         cin >> choice;
-        cout << "Nhap gia tri n: ";
+        cout << "Vui long nhap gia tri n: ";
         cin >> n;
         switch (choice) {
             case 0:
